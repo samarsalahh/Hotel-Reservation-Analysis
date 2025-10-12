@@ -4,10 +4,10 @@
 
 This project explores hotel reservation data to uncover trends that affect booking performance. The dataset includes details such as guest demographics, stay duration, meal plans, lead times, booking channels, room types, and prices. Through detailed analysis, key metrics like cancellation rate and occupancy rate were evaluated. Insights show how factors such as booking lead time, market segment, and room type influence cancellations and revenue generation. The goal is to help hotel management make data-driven decisions on pricing, marketing, and operational strategies.
 
-📊 Dataset Description
+### 📊 Dataset Description
 The Hotel Reservations sheet contains 21 columns, including demographic, booking, and stay details.
 
-📈 Key KPIs and Insights
+### 📈 Key KPIs and Insights
 
 - The analysis focuses on the following business KPIs:
 
@@ -21,7 +21,7 @@ The Hotel Reservations sheet contains 21 columns, including demographic, booking
 
 - Special Requests Analysis – Correlation with booking confirmation.
 
-📉 Analytical Process
+### 📉 Analytical Process
 
 Data Cleaning & Preparation
 
@@ -43,7 +43,7 @@ Visualized trends and KPIs using Excel Dashboards.
 
 Designed visuals for management-level interpretation.
 
-💡 Business Insights Examples
+### 💡 Business Insights Examples
 
 Higher lead times correspond with lower cancellation rates.
 
@@ -53,7 +53,7 @@ Room Type 1 is the most frequently booked.
 
 Special requests are a positive indicator of confirmed stays.
 
-🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 
 Excel Data cleaning, pivot tables, dashboards
 
