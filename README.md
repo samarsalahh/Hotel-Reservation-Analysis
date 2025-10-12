@@ -26,38 +26,33 @@ This project explores hotel reservation data to uncover trends that affect booki
 
 ### 📉 Analytical Process
 
-Data Cleaning & Preparation
+#### Data Cleaning & Preparation
 
-Checked for missing, duplicate, or inconsistent data.
+- Checked for missing, duplicate, or inconsistent data.
 
-Analyzed booking trends by time, room type, and segment.
+- Analyzed booking trends by time and room type
 
-Investigated cancellation behavior and lead time influence.
+- Investigated cancellation behavior and lead time influence.
 
-KPI Calculation & Pivot Table Creation
+#### KPI Calculation & Pivot Table Creation
 
-Built pivot summaries for occupancy
+- Built pivot summaries for occupancy
 
-Grouped data by month, market segment, and room type.
+- Grouped data by month, market segment, and room type.
 
-Dashboard Development
+#### Dashboard Development
 
-Visualized trends and KPIs using Excel Dashboards.
+- Visualized trends and KPIs using Excel Dashboards.
 
-Designed visuals for management-level interpretation.
+- Designed visuals for management-level interpretation.
 
 ### 💡 Business Insights Examples
 
-Higher lead times correspond with lower cancellation rates.
+- Higher lead times correspond with lower cancellation rates.
 
-Online segment contributes to the largest booking volume but has a higher cancellation rate.
+- Online segment contributes to the largest booking volume but has a higher cancellation rate.
 
-Room Type 1 is the most frequently booked.
+- Room Type 1 is the most frequently booked.
 
-Special requests are a positive indicator of confirmed stays.
+- Special requests are a positive indicator of confirmed stays.
 
-### 🧰 Tools & Technologies
-
-Excel Data cleaning, pivot tables, dashboards
-
-Visualization Techniques – Bar charts, KPIs, slicers, and date trend lines
