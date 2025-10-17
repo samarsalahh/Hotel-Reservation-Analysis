@@ -6,6 +6,7 @@ This project explores hotel reservation data to uncover trends that affect booki
 
 ![Uploading Hotel dashboard--1.png…]()
 
+
 ### 📂 Dataset Structure
 - Hotel Reservations: contains the datasource
 
