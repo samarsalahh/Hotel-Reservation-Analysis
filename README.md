@@ -4,7 +4,7 @@
 
 This project explores hotel reservation data to uncover trends that affect booking performance. The dataset includes details such as guest demographics, stay duration, meal plans, lead times, booking channels, room types, and prices. Through detailed analysis, key metrics like cancellation rate and occupancy rate were evaluated. Insights show how factors such as booking lead time, market segment, and room type influence cancellations and revenue generation. The goal is to help hotel management make data-driven decisions on pricing, marketing, and operational strategies.
 
-![Uploading Hotel dashboard--1.png…]()
+![Uploading Hotel dashboard.png…]()
 
 
 ### 📂 Dataset Structure
